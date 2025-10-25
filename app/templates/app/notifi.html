@@ -1,0 +1,13 @@
+{% extends "app/base.html" %}
+{% load static %}
+{% block main-content %}
+<div class="title-card">
+    <div class="card">
+        <h3 class="mb-3">Bạn có chắc chắn đăng xuất khỏi tài khoản 
+            <span class="fw-bold text-primary"> {{ request.user.username }} </span>
+        </h3>
+    </div>
+    <a href="logout" class="card btn btn-outline-success fw-bold text-danger">Đăng Xuất</a>
+    <a href="profile" class="card btn btn-outline-success fw-bold text-warning">Hủy</a>
+</div>
+{% endblock %}

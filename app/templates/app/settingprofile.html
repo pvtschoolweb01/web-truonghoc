@@ -1,0 +1,52 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% block main-content %}
+<div class="title-card2 shadow p-4">
+    <h5 class="form-title">✏️ Chỉnh sửa thông tin</h5>
+    <form method="post" class="edit-form">
+        {% csrf_token %}
+        <div class="form-row">
+            <label for="id_full_name">Full name:</label>
+            <input type="text" id="id_full_name" name="full_name"
+                   value="{{ profile.full_name }}">
+        </div>
+        <div class="form-row">
+            <label for="id_birth_date">Birth date:</label>
+            <input type="datetime" id="id_birth_date" name="birth_date"
+                   value="{{ profile.birth_date|date:"d/m/Y" }}">
+        </div>
+        <div class="form-row">
+            <label for="id_class_name">Class name:</label>
+            <input type="text" id="id_class_name" name="class_name"
+                   value="{{ profile.class_name }}">
+        </div>
+        <div class="form-row">
+            <label for="id_email">Email:</label>
+            <input type="email" id="id_email" name="email"
+                   value="{{ profile.email }}">
+        </div>
+        <div class="form-row">
+            <label for="id_phone">Phone:</label>
+            <input type="text" id="id_phone" name="phone"
+                   value="{{ profile.phone }}">
+        </div>
+        <div class="form-row">
+            <label for="id_type">Tài khoản:</label>
+            <select name="typeuser" id="id_type">
+                <option value="" {% if not profile.typeuser %}selected{% endif %}>Khác</option>
+                <option value="gv" {% if profile.typeuser == "gv" %}selected{% endif %}>Giáo viên</option>
+                <option value="hs" {% if profile.typeuser == "hs" %}selected{% endif %}>Học sinh</option>
+            </select>
+        </div>
+        <div class="form-row">
+            <label for="id_type">Giới tính sinh học:</label>
+            <select name="sex" id="id_type">
+                <option value="True" {% if profile.sex %}selected{% endif %}>Nữ</option>
+                <option value="False" {% if not profile.sex %}selected{% endif %}>Nam</option>
+            </select>
+        </div>
+        <button type="submit" class="btn-submit">Cập nhật</button>
+        <a href="{% url "setting" %}" class="btn btn-outline-success fw-bold text-warning">Hủy</a>
+    </form>
+</div>
+{% endblock %}

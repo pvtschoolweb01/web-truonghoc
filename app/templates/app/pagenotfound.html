@@ -1,0 +1,8 @@
+{% extends "app/base.html" %}
+{% load static %}
+{% block main-content %}
+<div class="my-div">
+    <h3 class="my-div d-flex">Trang không hỗ trợ hoặc bạn đã vào sai đường link</h3>
+    <a href="{% url "home" %}" class="fw-bold text-success d-flex">Về trang chủ</a>
+</div>
+{% endblock %}

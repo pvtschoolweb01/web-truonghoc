@@ -1,0 +1,33 @@
+{% extends "app/base.html" %}
+{% load static %}
+{% block main-content %}
+<div class="title-card">
+    <h2 class="fw-bold">MiniGame tuần thứ 1</h2>
+    <div class="card">
+        <h4 class="d-flex">Tiêu đề MiniGame</h4>
+        <h6 class="d-flex">Đây là nội dung câu hỏi</h6>
+        <h6 class="d-flex text-success"><em>Lưu ý: Mỗi người chỉ được gửi 1 lần, hãy cẩn thận nhé!!!</em></h6>
+    </div>
+    <div class="container py-5">
+        <h5 class="mb-4">🕹️ Trả lời Minigame</h5>
+
+        {% if messages %}
+            {% for msg in messages %}
+            <div class="alert alert-{{ msg.tags }}">{{ msg }}</div>
+            {% endfor %}
+        {% endif %}
+
+        <form method="post" class="card">
+            {% csrf_token %}
+
+            <div class="mb-3">
+                <label for="answer" class="form-label text-light">Câu trả lời của bạn</label>
+                <textarea class="form-control" id="answer" name="answer" rows="4"
+                        placeholder="Nhập câu trả lời minigame..."></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">📨 Gửi câu trả lời</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

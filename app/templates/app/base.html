@@ -1,0 +1,499 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="{% static 'app/css/style.css' %}" rel="stylesheet" />
+        <link href="{% static 'app/css/owl.carousel.min.css' %}" rel="stylesheet" />
+        <link href="{% static 'app/css/all.min.css' %}" rel="stylesheet" />
+        <link href="{% static 'app/css/mycss.css' %}" rel="stylesheet" />
+
+        <style>
+            .iconmain {
+                font-family: 'Montserrat', sans-serif;
+                font-size: 1rem;
+                letter-spacing: 2px;
+                color: #fefefeff;
+                text-align: center;
+                text-shadow: black;
+                -webkit-text-stroke: 1px black;
+            }
+
+            a {
+                text-decoration: none;
+                color: inherit; 
+            }
+
+            .hero {
+                position: relative;
+                width: 100vw;
+                margin-left: calc(-50vw + 50%);
+                min-height: 300px;
+                color: #fff;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding: 4rem 1rem;
+
+                background-image: 
+                    linear-gradient(to left, rgba(24, 24, 24, 1), rgba(24, 24, 24, 0)),
+                    url('{% static "app/images/BackGround1.png" %}');
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                border-radius: 0;
+            }
+
+            .my-div {
+                margin-top: 0.75rem;
+            }
+
+            a {
+                text-decoration: none;
+                color: inherit; 
+            }
+
+            .title-card {
+                display: block;
+                background: #fff;
+                padding: 1rem;
+                border-radius: 0.75rem;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+                border: 1px solid #e5e7eb;
+                font-family: 'Montserrat', sans-serif;
+                font-weight: 700;
+                font-size: 1.5rem;
+                color: #222;
+                text-align: center;
+            }
+
+            .title-card:hover {
+                transform: translateY(-2px);    
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+            }
+
+            .hero__subtitle {
+                font-family: 'Montserrat', sans-serif;
+                font-size: 1rem;
+                letter-spacing: 2px;
+                color: #1b1fe5;
+                text-align: center;
+                -webkit-text-stroke: 2px black;
+            }
+
+
+            label {
+                font-size: 16px;
+                font-weight: bold;
+                margin-right: 10px;
+            }
+            
+            select {
+                padding: 10px 14px;
+                font-size: 16px;
+                border: 2px solid #4caf50;
+                border-radius: 8px;
+                background-color: #f9f9f9;
+                color: #333;
+                cursor: pointer;
+                transition: 0.3s;
+                appearance: none;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+            }
+            
+            select:hover {
+                border-color: #388e3c;
+                background-color: #f1fff1;
+            }
+            
+            select:focus {
+                outline: none;
+                border-color: #2e7d32;
+                box-shadow: 0 0 6px rgba(46, 125, 50, 0.6);
+            }
+            
+            .dropdown-container::after {
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                font-size: 12px;
+                color: #4caf50;
+                position: absolute;
+                right: 12px;
+                gap: 20px;
+                top: 50%;
+                transform: translateY(-50%);
+                pointer-events: none;
+            }
+            
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                background: white;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+                border-radius: 10px;
+                overflow: hidden;
+            }
+            
+            th,
+            td {
+                padding: 12px 15px;
+                text-align: center;
+            }
+            
+            th {
+                background: #4caf50;
+                color: white;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+            }
+            
+            tr:nth-child(even):not(.break) {
+                background-color: #f2f2f2;
+            }
+            
+            tr:hover:not(.break):not(:first-child) {
+                background-color: #e8f5e9;
+            }
+            
+            td {
+                border-bottom: 1px solid #ddd;
+            }
+            
+            .break {
+                background-color: #fff3cd !important;
+                color: #d32f2f;
+                font-weight: bold;
+                text-align: center;
+            }
+            .title-card2 {
+                max-width: 500px;
+                margin: 40px auto;
+                background: #ffffff;
+                border-radius: 16px;
+                box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+            }
+
+            .title-card2:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            }
+
+            .form-title {
+                font-size: 1.4rem;
+                font-weight: 600;
+                color: #2c3e50;
+                margin-bottom: 20px;
+                text-align: center;
+            }
+
+            .edit-form p {
+                margin-bottom: 15px;
+            }
+
+            .edit-form label {
+                font-weight: 500;
+                display: block;
+                margin-bottom: 6px;
+                color: #34495e;
+            }
+
+            .edit-form {
+                display: flex;
+                flex-direction: column;
+                gap: 16px;
+            }
+
+            .edit-form input, 
+            .edit-form select, 
+            .edit-form textarea {
+                width: 100%;
+                padding: 10px 14px;
+                border: 1px solid #dcdcdc;
+                border-radius: 10px;
+                outline: none;
+                transition: border 0.2s ease;
+            }
+
+            .edit-form input:focus,
+            .edit-form select:focus,
+            .edit-form textarea:focus {
+                border-color: #27ae60;
+                box-shadow: 0 0 0 2px rgba(39, 174, 96, 0.15);
+            }
+            
+            .form-row {
+                display: grid;
+                grid-template-columns: 130px 1fr;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .form-row label {
+                font-weight: 500;
+                text-align: right;
+                color: #2c3e50;
+            }
+
+            .form-row input {
+                width: 100%;
+                padding: 10px 14px;
+                border: 1px solid #dcdcdc;
+                border-radius: 10px;
+                outline: none;
+                transition: border 0.2s ease;
+            }
+
+            .form-row input:focus {
+                border-color: #27ae60;
+                box-shadow: 0 0 0 2px rgba(39, 174, 96, 0.15);
+            }
+
+            .btn-submit {
+                margin-top: 10px;
+                width: 100%;
+                padding: 12px;
+                background: linear-gradient(135deg, #27ae60, #2ecc71);
+                border: none;
+                border-radius: 12px;
+                font-size: 1rem;
+                font-weight: 600;
+                color: #fff;
+                cursor: pointer;
+                transition: background 0.3s ease, transform 0.1s ease;
+            }
+
+            .btn-submit:hover {
+                background: linear-gradient(135deg, #219150, #27ae60);
+                transform: translateY(-1px);
+            }
+
+            .switch {
+                position: relative;
+                display: inline-block;
+                width: 60px;
+                height: 34px;
+            }
+
+            .switch input {
+                opacity: 0;
+                width: 0;
+                height: 0;
+            }
+
+            .slider {
+                position: absolute;
+                cursor: pointer;
+                top: 0; left: 0; right: 0; bottom: 0;
+                background-color: #ccc;
+                transition: 0.4s;
+                border-radius: 34px;
+            }
+
+            .slider:before {
+                position: absolute;
+                content: "";
+                height: 26px; width: 26px;
+                left: 4px; bottom: 4px;
+                background-color: white;
+                transition: 0.4s;
+                border-radius: 50%;
+            }
+
+            input:checked + .slider {
+                background-color: #4caf50;
+            }
+
+            input:checked + .slider:before {
+                transform: translateX(26px);
+            }
+
+            .report-container {
+                max-width: 600px;
+                margin: 40px auto;
+                padding: 25px;
+                background: #ffffff;
+                border-radius: 15px;
+                box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+                font-family: "Segoe UI", Tahoma, sans-serif;
+            }
+
+            .report-container h2 {
+                text-align: center;
+                color: #2c7be5;
+                margin-bottom: 20px;
+            }
+
+            .report-container form {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .report-container label {
+                font-weight: bold;
+                margin-bottom: 5px;
+                color: #333;
+            }
+
+            .report-container input[type="text"],
+            .report-container input[type="email"],
+            .report-container textarea {
+                width: 100%;
+                padding: 12px;
+                border: 1px solid #ddd;
+                border-radius: 10px;
+                font-size: 15px;
+                transition: border 0.3s;
+            }
+
+            .report-container input:focus,
+            .report-container textarea:focus {
+                border-color: #2c7be5;
+                outline: none;
+                box-shadow: 0 0 5px rgba(44,123,229,0.3);
+            }
+
+            .report-container button {
+                background: #2c7be5;
+                color: white;
+                padding: 12px;
+                border: none;
+                border-radius: 10px;
+                font-size: 16px;
+                cursor: pointer;
+                transition: background 0.3s, transform 0.2s;
+            }
+
+            .report-container button:hover {
+                background: #1a5fc9;
+                transform: translateY(-2px);
+            }
+
+            .avatar-img {
+                max-width: 120px;
+                height: auto;
+                border: 3px solid #eee;
+                box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            }
+
+            #preloader {
+                position: fixed;
+                top: 0; left: 0;
+                width: 100%; height: 100%;
+                background: #fff;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                z-index: 9999;
+            }
+            .spinner {
+                width: 50px; height: 50px;
+                border: 6px solid #ddd;
+                border-top: 6px solid #007bff;
+                border-radius: 50%;
+                animation: spin 1s linear infinite;
+            }
+            @keyframes spin { 100% { transform: rotate(360deg); } }
+
+        </style>
+
+        <!-- JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha512-bnIvzh6FU75ZKxp0GXLH9bewza/OIw6dLVh9ICg0gogclmYGguQJWl8U30WpbsGTqbIiAwxTsbe76DErLq5EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+        <script src="{% static 'app/js/all.min.js' %}"></script>
+        <script src="{% static 'app/js/myscript.js' %}"></script>
+        <script src="{% static 'app/js/owl.carousel.min.js' %}"></script>
+
+        
+        <title>Web School</title>
+        <meta name="description" content="">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!-- MENU BAR-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="iconmain" href="{% url "home" %}">PVT</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="{% url "home" %}">Trang chủ</a>
+                    </li>
+                    <li class="nav-item">
+                    {% if request.user.profile.class_name %}
+  <a class="nav-link" href="{% url 'class_feed' request.user.profile.class_name %}">
+     Bảng tin Lớp
+  </a>
+{% else %}
+  <span class="nav-link disabled text-muted">...</span>
+{% endif %}
+
+                    </li>
+                    <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{% url "home" %}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Thêm
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li><a class="dropdown-item" href="{% url "thoikhoabieu" %}">Thời Khóa Biểu</a></li>
+                        <li><a class="dropdown-item" href="{% url "report" %}">Báo cáo ẩn danh</a></li>
+                        <li><a class="dropdown-item" href="{% url "minigame" %}">MiniGame</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                    </li>
+                </ul>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+                <form class="d-flex">
+                    <pre>  </pre>
+                    {% if request.user.is_authenticated %}
+                    <div class="d-flex align-items-center btn gap-2">
+                        <span>👋 Chào mừng,</span>
+                        <a href="{% url "profile" %}" class="fw-bold text-success text-decoration-none">
+                            {{ request.user.username }}
+                        </a>
+                    </div>
+                    {% else %}
+                    <a href="{% url 'login' %}" class="btn btn-outline-success">Login</a>                    
+                    {% endif %}
+                </form>
+                </div>
+            </div>
+        </nav>
+
+        <!-- LOADING -->
+         <div id="preloader">
+            <div class="spinner"></div>
+        </div>
+        <!-- MAIN -->
+         <div id="content" style="display:none;">
+            {% block main-content %}{% endblock main-content %}
+        </div>
+
+         <script>
+            window.addEventListener("load", function() {
+                document.getElementById("preloader").style.display = "none";
+                document.getElementById("content").style.display = "block";
+            });
+        </script>
+        <!-- FOOTER -->
+        <footer class="container--fluid bg success text-center fixed-bottom p-2 mt-5">
+            © 2025 - Thiết kế bởi <b>ThLocNBN</b>
+        </footer>
+    </body>
+</html>

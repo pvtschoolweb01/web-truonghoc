@@ -1,0 +1,35 @@
+{% extends 'app/base.html' %}
+{% block main-content %}
+<h1>Bài chờ duyệt</h1>
+<table>
+  <tr>
+    <th>Tác giả</th>
+    <th>Lớp</th>
+    <th>Nội dung</th>
+    <th>Ảnh</th>
+    <th>Thời gian</th>
+    <th>Hành động</th>
+  </tr>
+  {% for post in posts %}
+  <tr>
+    <td>{{ post.author.username }}</td>
+    <td>{{ post.class_name }}</td>
+    <td>{{ post.content|truncatechars:50 }}</td>
+    <td>
+      {% if post.image %}
+        <img src="{{ post.image.url }}" alt="image" style="height:50px;">
+      {% else %}
+        Không có
+      {% endif %}
+    </td>
+    <td>{{ post.created_at }}</td>
+    <td>
+      <a href="{% url 'approve_post' post.id %}">✅ Duyệt</a> |
+      <a href="{% url 'delete_post_admin' post.id %}">❌ Xóa</a>
+    </td>
+  </tr>
+  {% empty %}
+  <tr><td colspan="6">Không có bài chờ duyệt</td></tr>
+  {% endfor %}
+</table>
+{% endblock main-content %}

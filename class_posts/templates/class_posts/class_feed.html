@@ -1,0 +1,67 @@
+{% extends 'app/base.html' %}
+{% block main-content %}
+<div class="container mt-4">
+  <h3> Bảng tin lớp {{ class_name }}</h3>
+  {% if message %}
+  <div id="flash-message" class="alert alert-info text-center fw-bold">
+    {{ message }}
+  </div>
+  <script>
+    setTimeout(() => {
+      const msg = document.getElementById('flash-message');
+      if (msg) msg.style.display = 'none';
+    }, 3000);
+  </script>
+  {% endif %}
+
+
+  <form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit" class="btn btn-primary">Đăng bài</button>
+  </form>
+
+  <hr>
+
+  {% for post in posts %}
+  {% load tz %} 
+  <div class="card mb-3">
+    <div class="card-body">
+      <div class="d-flex align-items-center mb-2">
+  <!-- Tên tác giả và tên đầy đủ -->
+  <h6 class="mb-0 me-2 fw-bold text-primary">
+    {{ post.author.profile.full_name }} 
+    <small class="text-muted">({{ post.author.username }})</small>
+  </h6>
+  
+  <!-- Thời gian tạo bài -->
+  <small class="text-muted">
+  {% localtime on %}{{ post.created_at|date:"H:i d/m/Y" }}{% endlocaltime %}
+</small>
+</div>
+
+<!-- Nội dung bài viết -->
+<p>{{ post.content }}</p>
+
+      
+      {% if post.image %}
+      <img src="{{ post.image.url }}" class="img-fluid rounded mb-2">
+      {% endif %}
+
+      
+
+      {% if post.author == request.user %}
+      <form action="{% url 'delete_post' post.id %}" method="post" style="display:inline;">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-sm btn-danger float-end">
+          🗑️ Xóa
+        </button>
+      </form>
+      {% endif %}
+    </div>
+  </div>
+  {% empty %}
+  <p>Chưa có bài viết nào trong lớp này.</p>
+  {% endfor %}
+</div>
+{% endblock main-content %}

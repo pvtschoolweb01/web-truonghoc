@@ -1,0 +1,92 @@
+{% extends 'app/base.html' %}
+{% load static %}
+{% load dict_extras %}
+{% block main-content %}
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1 class="title-card">Thời Khóa Biểu</h1>
+    <div class="title-card">
+      <form class="dropdown-container" method="get" action="{% url 'thoikhoabieu' %}">
+        <label style="text-align: left; font-family: 'Montserrat', sans-serif;" for="lop">Lớp:</label>
+        <select name="lop" id="lop-select" onchange="this.form.submit()">
+          <option value="10A1" {% if lop == '10A1' %}selected{% endif %}>10A1</option>
+          <option value="10A2" {% if lop == '10A2' %}selected{% endif %}>10A2</option>
+          <option value="10A3" {% if lop == '10A3' %}selected{% endif %}>10A3</option>
+          <option value="10A4" {% if lop == '10A4' %}selected{% endif %}>10A4</option>
+          <option value="10A5" {% if lop == '10A5' %}selected{% endif %}>10A5</option>
+          <option value="10A6" {% if lop == '10A6' %}selected{% endif %}>10A6</option>
+          <option value="10A7" {% if lop == '10A7' %}selected{% endif %}>10A7</option>
+          <option value="11A1" {% if lop == '11A1' %}selected{% endif %}>11A1</option>
+          <option value="11A2" {% if lop == '11A2' %}selected{% endif %}>11A2</option>
+          <option value="11A3" {% if lop == '11A3' %}selected{% endif %}>11A3</option>
+          <option value="11A4" {% if lop == '11A4' %}selected{% endif %}>11A4</option>
+          <option value="11A5" {% if lop == '11A5' %}selected{% endif %}>11A5</option>
+          <option value="11A6" {% if lop == '11A6' %}selected{% endif %}>11A6</option>
+          <option value="11A7" {% if lop == '11A7' %}selected{% endif %}>11A7</option>
+          <option value="12A1" {% if lop == '12A1' %}selected{% endif %}>12A1</option>
+          <option value="12A2" {% if lop == '12A2' %}selected{% endif %}>12A2</option>
+          <option value="12A3" {% if lop == '12A3' %}selected{% endif %}>12A3</option>
+          <option value="12A4" {% if lop == '12A4' %}selected{% endif %}>12A4</option>
+          <option value="12A5" {% if lop == '12A5' %}selected{% endif %}>12A5</option>
+          <option value="12A6" {% if lop == '12A6' %}selected{% endif %}>12A6</option>
+        </select>
+        <label for="buoi">Buổi:</label>
+        <select name="buoi" id="buoi-select" onchange="this.form.submit()">
+          <option value="sang" {% if buoi == "sang" %}selected{% endif %}>Sáng</option>
+          <option value="chieu" {% if buoi == "chieu" %}selected{% endif %}>Chiều</option>
+        </select>
+        <script>
+        document.getElementById("lop-select").addEventListener("change", function() {
+            let lop = this.value;
+            let buoi = document.getElementById("buoi-select").value;
+            window.location.href = "?lop=" + lop + "&buoi=" + buoi;
+        });
+
+        document.getElementById("buoi-select").addEventListener("change", function() {
+            let lop = document.getElementById("lop-select").value;
+            let buoi = this.value;
+            window.location.href = "?lop=" + lop + "&buoi=" + buoi;
+        });
+        </script>
+      </div>
+    </div>
+    <div class="title-card">
+      <h3>Thời khóa biểu buổi {% if buoi == "sang" %}sáng {% elif buoi == "chieu" %}chiều {% else %}???{% endif %} lớp {{ lop }}</h3>
+      {% if tkb %}
+      <table>
+        <thead>
+          <tr>
+            <th>Tiết</th>
+            <th>Thứ 2</th>
+            <th>Thứ 3</th>
+            <th>Thứ 4</th>
+            <th>Thứ 5</th>
+            <th>Thứ 6</th>
+            <th>Thứ 7</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for tiet in "12345" %}
+            <tr>
+              <td>{{ tiet }}</td>
+              {% for thu in "234567" %}
+                <td>{{ tkb|get_item:thu|get_item:tiet|default:"" }}</td>
+              {% endfor %}
+            </tr>
+          </tr>
+          {% if tiet == "3" %}
+          <tr>
+            <td colspan="7">Giờ ra chơi</td>
+          </tr>
+          {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p>Không có dữ liệu.</p>
+      {% endif %}
+    </div>
+  </body>
+</html>
+{% endblock main-content %}

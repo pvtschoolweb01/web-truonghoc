@@ -1,0 +1,39 @@
+{% extends "app/base.html" %}
+{% load static %}
+
+{% block main-content %}
+<div class="report-container" style="max-width:600px; margin:40px auto; background:#fff; padding:25px; border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1);">
+    <h2 style="text-align:center; color:#3366cc; margin-bottom:20px;">📩 Gửi báo cáo</h2>
+
+    <form method="post" enctype="multipart/form-data" style="display:flex; flex-direction:column; gap:15px;">
+        {% csrf_token %}
+        <div>
+            <label for="id_subject"><strong>Tiêu đề:</strong></label><br>
+            {{ form.subject }}
+        </div>
+
+        <div>
+            <label for="id_message"><strong>Nội dung:</strong></label><br>
+            {{ form.message }}
+        </div>
+
+        <div>
+            <label for="id_attachment"><strong>📎 Tệp đính kèm (tuỳ chọn):</strong></label><br>
+            {{ form.attachment }}
+        </div>
+
+        <button type="submit" 
+                style="background:#3366cc; color:white; border:none; padding:10px; border-radius:6px; cursor:pointer; font-weight:bold;">
+            Gửi báo cáo
+        </button>
+    </form>
+
+    {% if messages %}
+        <div style="margin-top:20px;">
+            {% for message in messages %}
+                <p style="color:green;">{{ message }}</p>
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

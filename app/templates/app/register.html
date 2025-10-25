@@ -1,0 +1,151 @@
+{% load static %}
+{% load dict_extras %}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Đăng ký tài khoản</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Montserrat', sans-serif;
+      background: linear-gradient(135deg, #4f46e5, #3b82f6);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .register-card {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      width: 320px;
+      text-align: center;
+    }
+
+    .register-card h2 {
+      margin-bottom: 1.5rem;
+      font-size: 1.5rem;
+      color: #111827;
+    }
+
+    .form-group {
+      margin-bottom: 1rem;
+      text-align: left;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 0.85rem;
+      font-weight: 500;
+      margin-bottom: 0.4rem;
+      color: #374151;
+    }
+
+    .form-group input {
+      width: 100%;
+      padding: 0.6rem 0.8rem;
+      border-radius: 0.5rem;
+      border: 1px solid #d1d5db;
+      font-size: 0.9rem;
+      outline: none;
+      transition: border 0.2s;
+    }
+
+    .form-group input:focus {
+      border-color: #3b82f6;
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+    }
+
+    .register-btn {
+      width: 100%;
+      padding: 0.7rem;
+      margin-top: 0.5rem;
+      background: #3b82f6;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 0.5rem;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .register-btn:hover {
+      background: #2563eb;
+    }
+
+    .extra-links {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+    }
+
+    .extra-links a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+
+    .extra-links a:hover {
+      text-decoration: underline;
+    }
+
+    .errorlist {
+      color: red;
+      margin: 0.2rem 0;
+      list-style: none;
+      padding-left: 0;
+      font-size: 0.8rem;
+    }
+    .form-control {
+        width: 100%;
+        padding: 0.6rem 0.8rem;
+        border-radius: 0.5rem;
+        border: 1px solid #d1d5db;
+        font-size: 0.9rem;
+        outline: none;
+        transition: border 0.2s;
+    }
+
+    .form-control:focus {
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="register-card">
+    <h2>Đăng ký tài khoản</h2>
+    <form method="POST">
+      {% csrf_token %}
+      {{ form.non_field_errors }}
+
+      <div class="form-group">
+        <label for="id_username">Tên đăng nhập</label>
+        {{ form.username.errors }}
+        {{ form.username }}
+      </div>
+
+      <div class="form-group">
+        <label for="id_password1">Mật khẩu</label>
+        {{ form.password1.errors }}
+        {{ form.password1 }}
+      </div>
+
+      <div class="form-group">
+        <label for="id_password2">Xác nhận mật khẩu</label>
+        {{ form.password2.errors }}
+        {{ form.password2 }}
+      </div>
+
+      <button type="submit" class="register-btn">Đăng ký</button>
+    </form>
+
+    <div class="extra-links">
+      <p>Đã có tài khoản? <a href="{% url 'login' %}">Đăng nhập</a></p>
+    </div>
+  </div>
+</body>
+</html>

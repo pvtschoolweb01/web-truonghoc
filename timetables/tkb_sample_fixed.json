@@ -1,0 +1,8402 @@
+[
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "10A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "10A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "11A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A7",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A7",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A7",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "11A7",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A1",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A1",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Tin học"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A2",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A3",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A3",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A3",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A3",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A4",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A4",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A4",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Hóa"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sinh học"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A4",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A4",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A5",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A5",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A5",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A5",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A6",
+    "thu": 2,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A6",
+    "thu": 3,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A6",
+    "thu": 4,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Địa"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A6",
+    "thu": 5,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Lý"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "HDTN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 6,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 1,
+    "mon": "KTPL"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 2,
+    "mon": "QPAN"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 3,
+    "mon": "Tiếng Anh"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 4,
+    "mon": "Công nghệ"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "sang",
+    "tiet": 5,
+    "mon": "GDTC"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 1,
+    "mon": "Văn"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 2,
+    "mon": "GDDP"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 3,
+    "mon": "Toán"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 4,
+    "mon": "Sử"
+  },
+  {
+    "lop": "12A6",
+    "thu": 7,
+    "buoi": "chieu",
+    "tiet": 5,
+    "mon": "Địa"
+  }
+]
